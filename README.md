@@ -26,3 +26,14 @@ Las respuestas fueron alojadas en diferentes ramas del repositorio. Las ramas di
 - `pregunta-6`: Contiene la solucion a la pregunta 5.
 
 En cada una de las ramas, se pueden encontrar los archivos que forman su respectiva respuesta y ademas, en este mismo archivo se extiende para presentar una descripcion del problema, detalles de la implementacion y formas de uso.
+
+## Secuencias y Grafos
+
+Para esta pregunta se utilizo el lenguaje de programacion `Ruby`.
+
+La estrutura del directorio es la siguiente:
+
+- `i/`: Contiene todos los archivos de ejemplos para la preguntas 1(a), donde se identifica de la siguiente manera:
+  - `herencia.rb`: Contienen el codigo responsable de implementar las secuencias.
+- `ii/`: Contiene todos los archivos de ejemplos para la pregunta 1(b), donde se identifican de la siguiente manera:
+  - `graph.rb`: Contienen el codigo responsable de implementar el grafo de adyacencias, DFS y BFS.
