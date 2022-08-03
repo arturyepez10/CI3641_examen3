@@ -26,3 +26,14 @@ Las respuestas fueron alojadas en diferentes ramas del repositorio. Las ramas di
 - `pregunta-6`: Contiene la solucion a la pregunta 5.
 
 En cada una de las ramas, se pueden encontrar los archivos que forman su respectiva respuesta y ademas, en este mismo archivo se extiende para presentar una descripcion del problema, detalles de la implementacion y formas de uso.
+
+## Vectores y Directorios
+
+Para esta pregunta se utilizo el lenguaje de programacion `Python`.
+
+La estrutura del directorio es la siguiente:
+
+- `i/`: Contiene todos los archivos de ejemplos para la preguntas 2(b), donde se identifica de la siguiente manera:
+  - `productoPunto.py`: Contienen el codigo responsable de implementar el metodo de producto punto entre 2 vectores de forma concurrente.
+- `ii/`: Contiene todos los archivos de ejemplos para la preguntas 2(b), donde se identifica de la siguiente manera:
+  - `contadorPath.py`: Contienen el codigo responsable de implementar el una funcion que cuente los archivos en el arbol generado de un directorio. 
